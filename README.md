@@ -1,2 +1,2 @@
 # nodejs-api
-An API for the backend of a React Js project
+An API using Node js + Express
